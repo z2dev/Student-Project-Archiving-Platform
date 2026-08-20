@@ -13,7 +13,6 @@ I contributed to the project throughout its different stages, including project 
 ## Tools
 
 - Figma
-- UI/UX Design
 
 ## Prototype
 
