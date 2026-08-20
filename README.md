@@ -21,7 +21,7 @@ I contributed to the project throughout its different stages, including project 
 
 ## Prototype Screens
 
-The project includes 26 selected screens representing the main user interfaces and workflows of the SPAP prototype.
+The project includes a selection of 26 key screens from the full SPAP prototype, which contains over 100 screens.
 
 ## Project Type
 
