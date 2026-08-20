@@ -62,8 +62,8 @@ Here are some selected screens from the SPAP prototype.
 
 <table>
    <tr>
-    <td><img src="splash-screen.jpg" alt="Discover Screen" width="180"></td>
-    <td><img src="login-screen.jpg" alt="Upload New Project" width="180"></td>
+    <td><img src="splash-screen.jpg" alt="Splash Screen" width="180"></td>
+    <td><img src="login-screen.jpg" alt="Login Screen" width="180"></td>
   </tr>
   <tr>
     <td><img src="discover.jpg" alt="Discover Screen" width="180"></td>
