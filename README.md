@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-SPAP is a Software Engineering course project focused on designing a platform for archiving and managing student projects. The platform is designed to provide a centralized space where students can upload, browse, and access previous academic projects.
+SPAP is a Software Engineering (CS411) course project focused on designing a platform for archiving and managing student projects. The platform is designed to provide a centralized space where students can upload, browse, and access previous academic projects.
 
 The project covered key software engineering stages, including requirements analysis, project planning, system design, and prototype development.
 
@@ -25,8 +25,8 @@ The project includes a selection of 26 key screens from the full SPAP prototype,
 
 ## Project Type
 
-Software Engineering Course Project
+Software Engineering (CS411) Course Project
 
 ## Team Project
 
-This project was completed collaboratively as part of a Software Engineering course at Imam Abdulrahman Bin Faisal University.
+This project was completed collaboratively as part of a Software Engineering (CS411) course at Imam Abdulrahman Bin Faisal University.
