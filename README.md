@@ -18,10 +18,22 @@ I contributed to the project throughout its different stages, including project 
 
 [View the Interactive Figma Prototype](https://www.figma.com/proto/jNywTxM7g8T17QYgf2SfLd/SPAP-Prototype?node-id=3-9&p=f&t=IvS4rrtN9KRjEvLS-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A2&show-proto-sidebar=1)
 
-## Prototype Screens
+## Prototype Preview
 
-The project includes a selection of 26 key screens from the full SPAP prototype, which contains over 100 screens.
+Here are some selected screens from the SPAP prototype.
 
+<table>
+  <tr>
+    <td><img src="discover.png" alt="Discover Screen" width="400"></td>
+    <td><img src="upload-project.png" alt="Upload New Project" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="project-feedbacks.png" alt="Project Feedbacks" width="400"></td>
+    <td><img src="admin-dashboard.png" alt="Admin Dashboard" width="400"></td>
+  </tr>
+</table>
+
+The full SPAP prototype includes over 100 screens, with 26 selected screens included in this repository.
 ## Project Type
 
 Software Engineering (CS411) Course Project
