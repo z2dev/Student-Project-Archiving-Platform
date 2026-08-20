@@ -24,12 +24,12 @@ Here are some selected screens from the SPAP prototype.
 
 <table>
   <tr>
-    <td><img src="discover.png" alt="Discover Screen" width="400"></td>
-    <td><img src="upload-project.png" alt="Upload New Project" width="400"></td>
+    <td><img src="discover.png" alt="Discover Screen" width="200"></td>
+    <td><img src="upload-project.png" alt="Upload New Project" width="200"></td>
   </tr>
   <tr>
-    <td><img src="project-feedbacks.png" alt="Project Feedbacks" width="400"></td>
-    <td><img src="admin-dashboard.png" alt="Admin Dashboard" width="400"></td>
+    <td><img src="project-feedbacks.png" alt="Project Feedbacks" width="200"></td>
+    <td><img src="admin-dashboard.png" alt="Admin Dashboard" width="200"></td>
   </tr>
 </table>
 
